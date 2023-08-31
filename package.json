@@ -1,5 +1,5 @@
 {
-  "name": "cypressautomation",
+  "name": "new---cypress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "author": "Aditya",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "cypress": "^13.0.0"
   }
 }
